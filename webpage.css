@@ -1,0 +1,36 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    table-layout: fixed;
+    border: 20px;
+    background: linear-gradient(to right, orange, green);
+    
+}
+
+
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: black;
+    font-size: medium;
+    font-weight: 100px;
+    background-color: aqua;
+
+table {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300px;
+}
+td{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+
+}
